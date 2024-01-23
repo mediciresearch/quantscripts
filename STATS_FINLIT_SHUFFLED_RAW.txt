@@ -1,0 +1,14 @@
+Statistics for FINLIT_SHUFFLED_RAW_TEXT_COMPLETION.jsonl
+-------------------------------------------
+File Name: FINLIT_SHUFFLED_RAW_TEXT_COMPLETION.jsonl
+Number of Records: 702357
+Number of Characters: 452102175
+Number of Tokens: 75806880
+Vocabulary Size: 1599939
+Average Tokens per Record: 107.93
+Max Record Length (Tokens): 12701
+Min Record Length (Tokens): 1
+25th Percentile Record Length: 71.0
+50th Percentile Record Length (Median): 93.0
+75th Percentile Record Length: 116.0
+Most Common Tokens: the (5209611 times), of (3286400 times), a (1808376 times), to (1799186 times), and (1520501 times), in (1146703 times), is (1075080 times), that (868409 times), for (604716 times), The (496614 times)
